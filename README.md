@@ -25,7 +25,7 @@
 <p align="left">
 
 <a href = "https://www.instagram.com/prince._.gangadhar._.official/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.instagram.com/prince._.gangadhar._.official/"><img src="https://icons8.com/icon/13930/linkedin"/></a>
 </p>
 
 
