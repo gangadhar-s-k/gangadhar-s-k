@@ -14,15 +14,19 @@
 
 
 
-
-
+   ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Networking**
 
   ✩░▒▓▆▅▃▂▁𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐨𝐧▁▂▃▅▆▓▒░✩
 - Email: [gangacyberpro@gmail.com](mailto:gangacyberpro@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
 
+## Connect with me:
+<p align="left">
 
+<a href = "https://www.instagram.com/prince._.gangadhar._.official/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
 
 
 
