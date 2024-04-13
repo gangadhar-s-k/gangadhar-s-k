@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Networking**
 - 🎓 Studing cyber security in Allinace University
    <div align="center"> 
-      ##✩░▒▓▆▅▃▂▁𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐨𝐧▁▂▃▅▆▓▒░✩
+      ##✩░▒▓▆▅▃▂▁FEEL FREE TO CONTACT ON▁▂▃▅▆▓▒░✩
 - Email: [gangacyberpro@gmail.com](mailto:gangacyberpro@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
   </div>
