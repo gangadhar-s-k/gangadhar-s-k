@@ -1,4 +1,3 @@
-
 ![OGC](https://github.com/PRINCEGANGADHAR/PRINCEGANGADHAR/assets/106361421/7aa80793-624d-47e5-8aa3-4a5127092cdb)
 
 <h1 align="center">
@@ -17,13 +16,13 @@
    ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Networking**
 - 🎓 Studing cyber security in Allinace University
-
-  ## ✩░▒▓▆▅▃▂▁𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐨𝐧▁▂▃▅▆▓▒░✩
+   <div align="center"> 
+      ##✩░▒▓▆▅▃▂▁𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐨𝐧▁▂▃▅▆▓▒░✩
 - Email: [gangacyberpro@gmail.com](mailto:gangacyberpro@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
   </div>
  
-<div align="center"> 
+   <div align="center"> 
   <a href="mailto:gangacyberpro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
