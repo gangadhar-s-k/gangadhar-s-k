@@ -45,7 +45,7 @@
    ## 🚀 Languages and Tools:
 
 <p align="left"> 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=github,linux,py,cpp,"> </a> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=github,linux,py,cpp,"> </a> </p>
    </p>
 
 
