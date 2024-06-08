@@ -16,7 +16,9 @@
 
    ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Networking**
-- 🎓 Studing cyber security in Allinace University
+- 🎓 **Studing cyber security in Allinace University**
+- 🔐 **Cybersecurity**
+- 🚩 CTF Player
    <div align="center"> 
 - Email: [gangacyberpro@gmail.com](mailto:gangacyberpro@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
@@ -40,12 +42,17 @@
 
    
 </p>
-   
-   
-   ## 🚀 Languages and Tools:
+<br>
 
-<p align="left"> 
-<p align="left"><img src="https://skillicons.dev/icons?i=github,linux,py,cpp,"> </a> </p>
-   </p>
+<img align="left" src = "Pics/sys.gif" width = 70px height=70px>
+<h1><strong> My Status</strong></h1>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PRINCEGANGADHAR&theme=gotham" />
+  <a href="https://github.com/PRINCEGANGADHAR">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRINCEGANGADHAR&theme=gotham" height="180em" />
+</p>
+
+
 
 
