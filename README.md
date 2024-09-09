@@ -39,11 +39,7 @@
 <p align="left">
 <a href = "https://www.instagram.com/prince._.gangadhar._.official/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  </a>
- <br>
 
-<img align="left" src = "Pics/sys.gif" width = 70px height=70px>
-<h1><strong> My Status</strong></h1>
-</p>
 <br>
 
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
