@@ -35,10 +35,128 @@
 
 
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.instagram.com/prince._.gangadhar._.official/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- </a>
+<h2 align="center">💻 Tools, Languages, and Other Things I’m Learning 💻</h2>
+<div align="center">
+<table>
+  <tr>
+    <td align="left" width="100">
+      <b>Programming:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.programiz.com/c-programming" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/C_logo.png" width="48" height="48" alt="C Logo"/>
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.png" width="48" height="48" alt="C++ Logo"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java Logo"/>
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python Logo"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bash-logo.svg" width="48" height="48" alt="Bash Logo"/>
+      </a>
+      <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Tools:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nmap_logo.svg" width="48" height="48" alt="Nmap Logo"/>
+      </a>
+      <br>Nmap
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.metasploit.com/favicon.ico" width="48" height="48" alt="Metasploit Logo"/>
+      </a>
+      <br>Metasploit
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.wireshark.org/assets/images/wire.png" width="48" height="48" alt="Wireshark Logo"/>
+      </a>
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <a href="https://ghidra-sre.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://ghidra-sre.org/img/ghidra_logo.png" width="48" height="48" alt="Ghidra Logo"/>
+      </a>
+      <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <a href="https://portswigger.net/" target="_blank" rel="noopener noreferrer">
+        <img src="https://portswigger.net/images/portcullis-black.svg" width="48" height="48" alt="Burp Suite Logo"/>
+      </a>
+      <br>Burp Suite
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Dev Tools:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git Logo"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub Logo"/>
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>OS:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Kali Linux Logo"/>
+      </a>
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://tails.net/" target="_blank" rel="noopener noreferrer">
+        <img src="https://tails.boum.org/img/logo/logo.png" width="48" height="48" alt="Tails Logo"/>
+      </a>
+      <br>Tails
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.qubes-os.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.qubes-os.org/images/logo/logo.svg" width="48" height="48" alt="Qubes Logo"/>
+      </a>
+      <br>Qubes
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.raspberrypi.com/documentation/usage/raspberry-pi/images/raspberry-pi.svg" width="48" height="48" alt="Raspberry Pi Logo"/>
+      </a>
+      <br>Raspberry Pi
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <br>
 
