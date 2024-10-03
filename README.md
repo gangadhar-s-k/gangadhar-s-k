@@ -44,25 +44,25 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.javatpoint.com/c-tutorial" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/C_logo.png" width="48" height="48" alt="C Logo"/>
+        <img src="https://www.javatpoint.com/images/c-logo.png" width="48" height="48" alt="C Logo"/>
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="https://www.javatpoint.com/c-plus-plus-tutorial" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.png" width="48" height="48" alt="C++ Logo"/>
+        <img src="https://www.javatpoint.com/images/cplus-logo.png" width="48" height="48" alt="C++ Logo"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96"> 
       <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java Logo"/>
+        <img src="https://www.javatpoint.com/images/java-logo.png" width="48" height="48" alt="Java Logo"/>
       </a>
       <br>Java
     </td>
     <td align="center" width="100">
       <a href="https://www.javatpoint.com/python-tutorial" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python Logo"/>
+        <img src="https://www.javatpoint.com/images/python-logo.png" width="48" height="48" alt="Python Logo"/>
       </a>
       <br>Python
     </td>
@@ -156,6 +156,7 @@
   </tr>
 </table>
 </div>
+
 
 
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
