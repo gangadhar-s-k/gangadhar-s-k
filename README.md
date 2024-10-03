@@ -43,31 +43,31 @@
       <b>Programming:</b>
     </td>
     <td align="center" width="96">
-      <a href="https://www.programiz.com/c-programming" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/c-tutorial" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/C_logo.png" width="48" height="48" alt="C Logo"/>
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/c-plus-plus-tutorial" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.png" width="48" height="48" alt="C++ Logo"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96"> 
-      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java Logo"/>
       </a>
       <br>Java
     </td>
     <td align="center" width="100">
-      <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/python-tutorial" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python Logo"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/bash-tutorial" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bash-logo.svg" width="48" height="48" alt="Bash Logo"/>
       </a>
       <br>Bash
@@ -157,8 +157,6 @@
 </table>
 </div>
 
-
-<br>
 
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
 <h1><strong> My Status</strong></h1>
