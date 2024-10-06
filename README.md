@@ -3,7 +3,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=28&duration=10006&pause=1015&color=35B46D&background=060E1A00&vCenter=true&width=800&height=58&lines=𝕳𝖊𝖑𝖑𝖔+𝖕𝖑𝖊𝖆𝖘𝖊𝖉+𝖙𝖔+𝖒𝖊𝖊𝖙+𝖞𝖔𝖚.+𝕴'𝖒+𝕲𝖆𝖓𝖌𝖆𝖉𝖍𝖆𝖗++%3A)...;"Typing SVG" /></a>
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PRINCEGANGADHAR&label=Profile%20views&color=0e75b6&style=flat" alt="PRINCEGANGADHAR" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=S-K-GANGADHAR&label=Profile%20views&color=0e75b6&style=flat" alt="S-K-GANGADHAR" /> </p>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Networking**
@@ -15,8 +15,6 @@
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
   </div>
  
- 
-
 <h2 align="center">💻 Tools, Languages, and Other Things I’m Learning 💻</h2>
 <div align="center">
 <table>
@@ -104,7 +102,7 @@
         <img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Kali Linux Logo"/>
       </a>
       <br>Kali Linux
-    </td>
+</td>
     <td align="center" width="96">
       <a href="https://tails.net/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/Chittu13/Chittu13/blob/main/Pics/new/tails.svg" width="48" height="48" alt="Tails Logo"/>
@@ -118,11 +116,8 @@
       <br>Qubes
     </td>
     <td align="center" width="96">
-      <a href="https://www.javatpoint.com/powershell-vs-cmd" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Chittu13/Chittu13/blob/main/Pics/new/cmd.svg" width="48" height="48" alt="CMD Logo"/>
-      </a>
-      <br>CMD
-    </td>
+    
+  
   </tr>
 </table>
 </div>
@@ -130,8 +125,8 @@
 <img align="left" src="Pics/sys.gif" width="70px" height="70px">
 <h1><strong> My Status</strong></h1>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PRINCEGANGADHAR&theme=gotham" />
-  <a href="https://github.com/PRINCEGANGADHAR">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRINCEGANGADHAR&theme=2077" />
+  <img src="https://streak-stats.demolab.com?user=S-K-GANGADHAR&theme=gotham" />
+  <a href="https://github.com/S-K-GANGADHAR">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-K-GANGADHAR&theme=2077" />
   </a>
 </p>
