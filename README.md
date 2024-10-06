@@ -129,8 +129,9 @@
 
 <img align="left" src="Pics/sys.gif" width="70px" height="70px">
 <h1><strong> My Status</strong></h1>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PRINCEGANGADHAR&theme=gotham" />
   <a href="https://github.com/PRINCEGANGADHAR">
-    <img align="center" src="http://github-profile
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRINCEGANGADHAR&theme=2077" />
+  </a>
+</p>
