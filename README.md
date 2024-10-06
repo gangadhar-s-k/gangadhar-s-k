@@ -118,7 +118,7 @@
       <br>Qubes
     </td>
     <td align="center" width="96">
-      <a href="[https://www.javatpoint.com/command-prompt-tutorial](https://www.javatpoint.com/powershell-vs-cmd)" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.javatpoint.com/powershell-vs-cmd" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/Chittu13/Chittu13/blob/main/Pics/new/cmd.svg" width="48" height="48" alt="CMD Logo"/>
       </a>
       <br>CMD
