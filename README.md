@@ -131,3 +131,4 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-K-GANGADHAR&theme=2077" />
   </a>
 </p>
+scam
