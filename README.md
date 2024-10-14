@@ -7,7 +7,6 @@
 
 <audio controls>
   <source src="https://github.com/S-K-GANGADHAR/S-K-GANGADHAR/blob/2c38e27e3cb46c8008866058a09eeb02a867a585/pics/NE/synthesize.mp3?raw=true" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 
@@ -136,4 +135,3 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-K-GANGADHAR&theme=2077" />
   </a>
 </p>
-scam
