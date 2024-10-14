@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=28&duration=10006&pause=1015&color=35B46D&background=060E1A00&vCenter=true&width=800&height=58&lines=𝕳𝖊𝖑𝖑𝖔+𝖕𝖑𝖊𝖆𝖘𝖊𝖉+𝖙𝖔+𝖒𝖊𝖊𝖙+𝖞𝖔𝖚.+𝕴'𝖒+𝕲𝖆𝖓𝖌𝖆𝖉𝖍𝖆𝖗++%3A)...;"Typing SVG" /></a>
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=S-K-GANGADHAR&label=Profile%20views&color=0e75b6&style=flat" alt="S-K-GANGADHAR" /> </p>
+
 <audio controls>
   <source src="https://github.com/S-K-GANGADHAR/S-K-GANGADHAR/blob/2c38e27e3cb46c8008866058a09eeb02a867a585/pics/NE/synthesize.mp3?raw=true" type="audio/mpeg">
   Your browser does not support the audio element.
