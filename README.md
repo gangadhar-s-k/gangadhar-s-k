@@ -11,7 +11,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Computer Networking**
+- 🐱‍🏍Interested in doing experiments with AI🐱‍🏍
 - 🎓 **Studying cybersecurity at Alliance University**
 - 🔐 **Cybersecurity Enthusiast**
 - 🚩 CTF Player
