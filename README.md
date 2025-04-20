@@ -17,7 +17,7 @@
 - 🔐 **Cybersecurity Enthusiast**
 - 🚩 CTF Player
    <div align="center"> 
-- Email: [gangacyberpro@gmail.com](mailto:gangacyberpro@gmail.com)
+- Email: [gangacyberpro@gmail.com](mailto:gangadhar.cyberpro@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/s-k-gangadhar-66b3751b1)
   </div>
  
