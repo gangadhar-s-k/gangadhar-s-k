@@ -1,11 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,35:090979,100:00d4ff&text=Sale%20Kongathi%20Gangadhar&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20VAPT%20Specialist%20%7C%20CVE%20Researcher&descAlignY=55&descSize=18" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%7C+VAPT+Specialist;CVE+Researcher+%7C+Responsible+Disclosure;Web+%7C+Cloud+%7C+Network+Security;Agentic+AI+Security+%7C+Automation+Builder" />
 
-<br><br>
-<br><br>
 
 <a href="https://linkedin.com/in/gangadhar-s-k-66b3751b1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
