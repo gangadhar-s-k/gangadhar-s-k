@@ -1,127 +1,106 @@
 <div align="center">
 
-# 🚀 Sale Kongathi Gangadhar
-### 🌟 Elite Cybersecurity Architect | AI/ML Innovator
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,35:090979,100:00d4ff&text=Sale%20Kongathi%20Gangadhar&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20VAPT%20Specialist%20%7C%20CVE%20Researcher&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Cybersecurity+Research+%26+Development;AI-Powered+Security+Automation;Penetration+Testing+%26+Threat+Hunting;Secure+Software+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%7C+VAPT+Specialist;CVE+Researcher+%7C+Responsible+Disclosure;Web+%7C+Cloud+%7C+Network+Security;Agentic+AI+Security+%7C+Automation+Builder" />
 
+<br><br>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://linkedin.com/in/gangadhar-s-k-66b3751b1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://github.com/gangadhar-s-k">
+  <img src="https://img.shields.io/badge/GitHub-gangadhar--s--k-111111?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
+<a href="mailto:gangadhar.cyberpro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-## 🎯 Elite Professional Profile
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=gangadhar-s-k&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-
-```yaml
-Name: Sale Kongathi Gangadhar
-Role: VAPT ANALYST
-Experience: 3+ Years
-Specialization: 
-  - ML-Based Anomaly Detection
-```
-
-### 🏆 Core Expertise Matrix
+---
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-**🔐 Cybersecurity Mastery**
-- Advanced Penetration Testing
-- Threat Intelligence & Hunting
-- Security Architecture Design
-- Incident Response & Forensics
-- Compliance & Risk Management
-- Red Team Operations
+## 👨‍💻 About Me
+
+I am a **Cybersecurity Analyst, VAPT Specialist, and CVE Researcher** focused on offensive security, vulnerability research, responsible disclosure, and AI-powered security automation.
+
+Currently working as a **VAPT Analyst Intern at CyberProof, UST Global**, performing security testing across:
+
+- Web Applications
+- Cloud Environments
+- Network Infrastructure
+- OWASP Top 10 and API Security
+- Vulnerability Reporting and Remediation
 
 </td>
-<td width="50%">
+<td width="40%" align="center">
 
-**🤖 AI/ML Innovation**
-- Deep Learning for Security
-- Behavioral Analysis Models
-- Automated Threat Detection
-- Computer Vision Security
-- NLP for Threat Intelligence
-- Reinforcement Learning
+<img width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer-Coding.gif" />
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Ultimate Technology Arsenal
+---
 
 <div align="center">
 
-### 🔒 Elite Security Tools
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+## 🚨 Security Research
 
 </div>
 
-## 📊 Advanced Analytics Dashboard
-
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=gangadhar-s-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=8B949E&border_radius=10" />
+<td align="center" width="33%">
+<h3>CVE</h3>
+<b>CVE-2026-45701</b>
+<br>
+Weak cryptographic usage
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadhar-s-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=8B949E&border_radius=10&langs_count=8" />
+<td align="center" width="33%">
+<h3>GHSA</h3>
+<b>GHSA-7fv8-6pp7-6h85</b>
+<br>
+Published advisory
+</td>
+<td align="center" width="33%">
+<h3>GHSA</h3>
+<b>GHSA-9m6v-8fxc-4r44</b>
+<br>
+Responsible disclosure
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gangadhar-s-k&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=F8D866&sideNums=F8D866&dates=8B949E" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangadhar-s-k&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" />
-
-</div>
-
-## 🏆 Flagship Security Projects
-
-<div align="center">
-
-### 🚀 [RudraShell](https://github.com/gangadhar-s-k/RudraShell) 
-![Stars](https://img.shields.io/github/stars/gangadhar-s-k/RudraShell?style=social)
-![Forks](https://img.shields.io/github/forks/gangadhar-s-k/RudraShell?style=social)
-
-**Elite AI-Powered CLI Automation & Security Platform**
+<br>
 
 ```diff
-+ Advanced threat detection with ML algorithms
-+ Real-time security monitoring and alerting  
-+ Automated penetration testing capabilities
-+ Secure command execution with sandboxing
-+ Integration with major SIEM platforms
++ Discovered weak cryptographic usage in API key and reset token generation
++ Reported vulnerabilities through responsible disclosure
++ Published advisories through GitHub Security Advisory process
++ Focused on real-world exploit validation and secure remediation
 ```
 
-</div>
-
-##  Vision & Mission Statement
+---
 
 <div align="center">
 
-> **🌟 "Architecting the future of cybersecurity through innovative AI-driven solutions,**  
-> **building resilient digital ecosystems that protect humanity's digital frontier."**
+## ⚔️ Cyber Arsenal
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,kali,ubuntu,docker,git,github,vscode" />
 
-## 📡 Professional Network & Collaboration
+<br><br>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangadhar-s-k-66b3751b1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gangadhar-saladi.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangadhar.cyberpro@gmail.com)
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
@@ -129,17 +108,77 @@ Specialization:
 
 <div align="center">
 
-### 💎 Elite Status Indicators
+## 🧠 Core Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=gangadhar-s-k&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/gangadhar-s-k?style=for-the-badge&color=blue&labelColor=black)
-![Stars](https://img.shields.io/github/stars/gangadhar-s-k?style=for-the-badge&color=yellow&labelColor=black)
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+```text
+Web Security         ████████████████████░░  90%
+VAPT                 ████████████████████░░  90%
+CVE Research         █████████████████░░░░░  80%
+Agentic AI Security  ██████████████████░░░░  85%
+Security Automation  █████████████████░░░░░  80%
+Cloud Security       ███████████████░░░░░░░  70%
+```
 
-**💫 "In the realm of cybersecurity, innovation is not just an advantage—it's a necessity."**  
-*— Sale Kongathi Gangadhar*
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔐+Securing+the+Digital+Future;🚀+One+Innovation+at+a+Time;🌟+Elite+Cybersecurity+Excellence" alt="Footer Typing SVG" />
+<div align="center">
+
+## 🏆 Highlights
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">🧬<br><b>CVE Allocated</b><br>CVE-2026-45701</td>
+<td align="center">🔐<br><b>GHSA Published</b><br>GHSA-7fv8-6pp7-6h85</td>
+<td align="center">🛡️<br><b>Second Advisory</b><br>GHSA-9m6v-8fxc-4r44</td>
+</tr>
+<tr>
+<td align="center">🥉<br><b>CTF Rank</b><br>3rd Place</td>
+<td align="center">🎤<br><b>BSides Kerala</b><br>2026</td>
+<td align="center">🎓<br><b>Certified</b><br>eJPT | ICCA | Google Cybersecurity</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Intelligence
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gangadhar-s-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gangadhar-s-k&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧪 Current Mission
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+the+bridge+between+Offensive+Security+and+AI+Automation;Researching+Agentic+AI+Security+and+LLM-powered+VAPT+Workflows;Breaking+Ethically.+Reporting+Responsibly.+Building+Securely." />
+
+<br><br>
+
+```bash
+whoami
+# VAPT Analyst | CVE Researcher | AI Security Builder
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00d4ff,50:090979,100:020024" />
+
+<img src="https://komarev.com/ghpvc/?username=gangadhar-s-k&style=for-the-badge&color=00f7ff" />
 
 </div>
