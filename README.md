@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%7C+VAPT+Specialist;CVE+Researcher+%7C+Responsible+Disclosure;Web+%7C+Cloud+%7C+Network+Security;Agentic+AI+Security+%7C+Automation+Builder" />
 
 <br><br>
-
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <br><br>
 
 <a href="https://linkedin.com/in/gangadhar-s-k-66b3751b1">
