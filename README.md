@@ -6,6 +6,10 @@
 
 <br><br>
 
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br><br>
+
 <a href="https://linkedin.com/in/gangadhar-s-k-66b3751b1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
@@ -20,30 +24,23 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## 👨‍💻 About Me
 
 I am a **Cybersecurity Analyst, VAPT Specialist, and CVE Researcher** focused on offensive security, vulnerability research, responsible disclosure, and AI-powered security automation.
 
-Currently working as a **VAPT Analyst Intern at CyberProof, UST Global**, performing security testing across:
+Currently working as a **VAPT Analyst Intern at CyberProof, UST Global**, performing security testing across **web applications, cloud environments, and network infrastructure**.
 
-- Web Applications
-- Cloud Environments
-- Network Infrastructure
-- OWASP Top 10 and API Security
-- Vulnerability Reporting and Remediation
-
-</td>
-<td width="40%" align="center">
-
-<img width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer-Coding.gif" />
-
-</td>
-</tr>
-</table>
+```yaml
+name: Sale Kongathi Gangadhar
+role: Cybersecurity Analyst | VAPT Specialist
+focus:
+  - Web Application Security
+  - Cloud & Network VAPT
+  - CVE Research
+  - Agentic AI Security
+  - Security Automation
+status: Breaking ethically. Reporting responsibly.
+```
 
 ---
 
@@ -75,8 +72,6 @@ Responsible disclosure
 </td>
 </tr>
 </table>
-
-<br>
 
 ```diff
 + Discovered weak cryptographic usage in API key and reset token generation
@@ -162,9 +157,7 @@ Cloud Security       ███████████████░░░░�
 
 ## 🧪 Current Mission
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+the+bridge+between+Offensive+Security+and+AI+Automation;Researching+Agentic+AI+Security+and+LLM-powered+VAPT+Workflows;Breaking+Ethically.+Reporting+Responsibly.+Building+Securely." />
-
-<br><br>
+**Building the bridge between offensive security, responsible disclosure, and Agentic AI-powered security automation.**
 
 ```bash
 whoami
@@ -176,8 +169,6 @@ whoami
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00d4ff,50:090979,100:020024" />
 
 <img src="https://komarev.com/ghpvc/?username=gangadhar-s-k&style=for-the-badge&color=00f7ff" />
 
